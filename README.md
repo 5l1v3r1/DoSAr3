@@ -21,7 +21,7 @@
 
  using this command > python DOSAR3.py
  
- # Useage:
+ # Usage:
  
  just run tool
  
