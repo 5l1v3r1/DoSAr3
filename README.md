@@ -17,7 +17,7 @@
  
  for window 
  
- run tool just :) 
+ just run tool :) 
 
  using this command > python DOSAR3.py
  
